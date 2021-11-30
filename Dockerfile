@@ -1,4 +1,4 @@
 from ubuntu:bionic
 
-# Install python
+# Install some packages and python
 run apt-get update -yqq && apt-get install python3 -yqq 
